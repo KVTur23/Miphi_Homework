@@ -1,0 +1,2 @@
+Ссылка на файл с курсами валют https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@ExchangeRates.zip
+ссылка на DataSet HeadHunter https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/viewc
